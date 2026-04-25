@@ -1,0 +1,36 @@
+:START_ID,:END_ID,:TYPE,deal_date,deal_amount,round_number,investor_status,is_lead,notes
+revivemed_startup_001,revivemed_deal_001,HAD_DEAL,,,,,,$4.5M from SBXi and Half Court Ventures; date undisclosed
+revivemed_startup_001,revivemed_deal_002,HAD_DEAL,2022-08-18,,,,,Boston Angel Club secondary exit
+revivemed_startup_001,revivemed_deal_003,HAD_DEAL,2022-06-01,,,,,Undisclosed amount from Good Growth Capital
+revivemed_startup_001,revivemed_deal_004,HAD_DEAL,2020-03-06,,,,,Undisclosed amount from SBXi
+revivemed_startup_001,revivemed_deal_005,HAD_DEAL,2018-04-18,1500000,,,,Seed round led by Rivas Capital
+revivemed_startup_001,revivemed_deal_006,HAD_DEAL,2017-05-23,,,,,MassChallenge 2017 acceleration program
+revivemed_startup_001,revivemed_deal_007,HAD_DEAL,2017-01-01,,,,,MIT Delta V 2017 cohort
+revivemed_startup_001,revivemed_deal_008,HAD_DEAL,2016-05-12,20000,,,,$17500 from MIT Endowment and Booz Allen Hamilton
+revivemed_startup_001,revivemed_deal_009,HAD_DEAL,,,,,,$0 - no equity or funding exchanged; LabCentral program
+revivemed_startup_001,revivemed_deal_010,HAD_DEAL,2016-01-01,,,,,MIT University Spin-Out
+revivemed_inv_001,revivemed_deal_001,INVESTED_IN,,,4,Follow-On Investor,No,
+revivemed_inv_002,revivemed_deal_001,INVESTED_IN,,,4,New Investor,No,
+revivemed_inv_003,revivemed_deal_003,INVESTED_IN,2022-06-01,,3,Follow-On Investor,No,Fund: Good Growth Capital Fund II
+revivemed_inv_001,revivemed_deal_004,INVESTED_IN,2020-03-06,,2,New Investor,No,
+revivemed_inv_004,revivemed_deal_005,INVESTED_IN,2018-04-18,1500000,1,New Investor,Yes,Lead investor; Lead Partner: Carlos Gonzalez
+revivemed_inv_005,revivemed_deal_005,INVESTED_IN,2018-04-18,1500000,1,New Investor,No,Lead Partner: Steven Lurie JD; Fund: Team Builder Ventures Fund II
+revivemed_inv_006,revivemed_deal_005,INVESTED_IN,2018-04-18,1500000,1,New Investor,No,Lead Partner: Natanel Barookhian
+revivemed_inv_003,revivemed_deal_005,INVESTED_IN,2018-04-18,300000,1,New Investor,No,Fund: CAP A Good Growth Capital Fund I + Infinite Corridor Fund
+revivemed_inv_007,revivemed_deal_005,INVESTED_IN,2018-04-18,1500000,1,New Investor,No,
+revivemed_inv_013,revivemed_deal_005,INVESTED_IN,2018-04-18,1500000,1,New Investor,No,
+revivemed_inv_008,revivemed_deal_006,INVESTED_IN,2017-05-23,,,New Investor,No,Lead Partner: John Harthorne; MassChallenge 2017 program
+revivemed_inv_009,revivemed_deal_007,INVESTED_IN,2017-01-01,,,New Investor,No,MIT Delta V 2017 cohort
+revivemed_inv_010,revivemed_deal_008,INVESTED_IN,2016-05-12,7500,,New Investor,No,MIT Endowment grant contribution
+revivemed_inv_014,revivemed_deal_008,INVESTED_IN,2016-05-12,,,New Investor,No,Booz Allen Hamilton Strategic Ventures grant contribution
+revivemed_inv_011,revivemed_deal_009,INVESTED_IN,,,New Investor,No,,LabCentral program; no equity or funding
+revivemed_inv_012,revivemed_deal_010,INVESTED_IN,2016-01-01,,,Shareholder,No,MIT as university shareholder; spin-out origin
+revivemed_person_001,revivemed_startup_001,LEADS,,,,,,,Co-Founder CEO President & Board Member
+revivemed_person_002,revivemed_startup_001,LEADS,,,,,,,Co-Founder Scientific Advisor & Board Member
+revivemed_person_003,revivemed_startup_001,LEADS,,,,,,,Board Member
+revivemed_person_004,revivemed_inv_004,REPRESENTS,,,,,,Founder; Board Member since Apr 2018
+revivemed_person_005,revivemed_inv_006,REPRESENTS,,,,,,Founder & Managing Partner; Board Member since Apr 2018
+revivemed_inv_004,revivemed_startup_001,HAS_BOARD_SEAT,2018-04-01,,,,,Carlos Gonzalez on board since Apr 2018
+revivemed_inv_006,revivemed_startup_001,HAS_BOARD_SEAT,2018-04-01,,,,,Natanel Barookhian on board since Apr 2018
+revivemed_inv_013,revivemed_deal_002,EXITED,2022-08-18,,,,,Boston Angel Club full exit via secondary transaction
+revivemed_startup_001,revivemed_inv_012,SPUN_OUT_OF,2016-01-01,,,,,ReviveMed spun out of MIT in 2016

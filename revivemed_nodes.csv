@@ -1,0 +1,31 @@
+nodeId:ID,name,type,investor_type,founded,location,total_raised,stage,focus_area,:LABEL
+revivemed_startup_001,ReviveMed,Startup,,2016,Cambridge MA,6000000,Generating Revenue,Drug Discovery / AI Metabolomics / Precision Medicine,Startup
+revivemed_inv_001,SBXi,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_002,Half Court Ventures,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_003,Good Growth Capital,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_004,Rivas Capital,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_005,Team Builder Ventures,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_006,TechU Ventures,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_007,WorldQuant Ventures,Investor,Venture Capital,,,,,,Investor
+revivemed_inv_008,MassChallenge,Investor,Accelerator/Incubator,,,,,,Investor
+revivemed_inv_009,MIT Delta V,Investor,Accelerator/Incubator,,,,,,Investor
+revivemed_inv_010,Massachusetts Institute of Technology Endowment,Investor,Limited Partner,,,,,,Investor
+revivemed_inv_011,LabCentral,Investor,Accelerator/Incubator,,,,,,Investor
+revivemed_inv_012,Massachusetts Institute of Technology,Investor,University,,,,,,Investor
+revivemed_inv_013,Boston Angel Club,Investor,Angel Group,,,,,,Investor
+revivemed_inv_014,Booz Allen Hamilton Strategic Ventures,Investor,Corporate Venture Capital,,,,,,Investor
+revivemed_person_001,Leila Pirhaji,Person,,,,,,Co-Founder CEO President & Board Member,Person
+revivemed_person_002,Ernest Fraenkel,Person,,,,,,Co-Founder Scientific Advisor & Board Member,Person
+revivemed_person_003,Andrey Zarur,Person,,,,,,Board Member,Person
+revivemed_person_004,Carlos Gonzalez,Person,,,,,,Founder Rivas Capital,Person
+revivemed_person_005,Natanel Barookhian,Person,,,,,,Founder & Managing Partner TechU Ventures,Person
+revivemed_deal_001,Deal #10 Later Stage VC,Deal,,,,$4500000,Generating Revenue,Later Stage VC,Deal
+revivemed_deal_002,Deal #9 Secondary Transaction Aug 2022,Deal,,,,,,Secondary Transaction Private,Deal
+revivemed_deal_003,Deal #8 Later Stage VC Jun 2022,Deal,,,,,,Later Stage VC,Deal
+revivemed_deal_004,Deal #7 Early Stage VC Mar 2020,Deal,,,,,,Early Stage VC,Deal
+revivemed_deal_005,Deal #6 Seed Round Apr 2018,Deal,,,,$1500000,Generating Revenue,Seed Round,Deal
+revivemed_deal_006,Deal #5 MassChallenge May 2017,Deal,,,,,,Accelerator/Incubator,Deal
+revivemed_deal_007,Deal #4 MIT Delta V Jan 2017,Deal,,,,,,Accelerator/Incubator,Deal
+revivemed_deal_008,Deal #3 Grant May 2016,Deal,,,,$20000,Startup,Grant,Deal
+revivemed_deal_009,Deal #2 LabCentral Accelerator,Deal,,,,,,Accelerator/Incubator,Deal
+revivemed_deal_010,Deal #1 MIT University Spin-Out Jan 2016,Deal,,,,,,University Spin-Out,Deal
