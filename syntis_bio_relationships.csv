@@ -1,0 +1,41 @@
+:START_ID,:END_ID,:TYPE,deal_date,deal_amount,round_number,investor_status,is_lead,notes
+startup_001,deal_001,HAD_DEAL,2025-06-24,33000000,,,,Series A-1 and A-2 combined
+startup_001,deal_002,HAD_DEAL,2025-07-01,5000000,,,,NIH Grant funding
+startup_001,deal_003,HAD_DEAL,2022-08-17,15370000,,,,Seed round
+inv_001,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,Yes,Lead investor; Lead Partner: Chenny Zhang
+inv_002,deal_001,INVESTED_IN,2025-06-24,33000000,3,Follow-On Investor,No,
+inv_003,deal_001,INVESTED_IN,2025-06-24,33000000,3,Follow-On Investor,No,
+inv_004,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,No,Lead Partner: Michael Nannizzi
+inv_005,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,No,
+inv_006,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,No,
+inv_007,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,No,
+inv_008,deal_001,INVESTED_IN,2025-06-24,33000000,3,Follow-On Investor,No,
+inv_009,deal_001,INVESTED_IN,2025-06-24,33000000,3,Follow-On Investor,No,Fund: Safar Partners Fund II
+inv_010,deal_001,INVESTED_IN,2025-06-24,33000000,3,New Investor,No,
+inv_011,deal_001,INVESTED_IN,2025-06-24,33000000,3,Follow-On Investor,No,Lead Partner: Teymour Boutros-Ghali PhD
+inv_012,deal_002,INVESTED_IN,2025-07-01,5000000,2,New Investor,No,Grant funding
+inv_002,deal_003,INVESTED_IN,2022-08-17,15370000,1,New Investor,No,
+inv_003,deal_003,INVESTED_IN,2022-08-17,15370000,1,New Investor,No,
+inv_008,deal_003,INVESTED_IN,2022-08-17,15370000,1,New Investor,No,
+inv_009,deal_003,INVESTED_IN,2022-08-17,15370000,1,New Investor,No,Fund: Safar Partners Fund II
+inv_011,deal_003,INVESTED_IN,2022-08-17,15370000,1,New Investor,No,Lead Partner: Teymour Boutros-Ghali PhD; Fund: Bold Capital Partners III
+legal_001,deal_001,ADVISED_ON,2025-06-24,,,,,Advised Syntis Bio; Lead: Joshua Fox
+legal_002,deal_001,ADVISED_ON,2025-06-24,,,,,Advised BOLD Capital Partners
+legal_002,deal_003,ADVISED_ON,2022-08-17,,,,,Advised BOLD Capital Partners and Safar Partners
+person_001,startup_001,LEADS,,,,,,,Co-Founder CEO President & Board Member
+person_002,startup_001,LEADS,,,,,,,Co-Founder & Board Member; 19 board seats overall
+person_003,startup_001,LEADS,,,,,,,Co-Founder Chair Clinical Advisory Board & Board Member
+person_004,startup_001,LEADS,,,,,,,Chief Business Officer
+person_005,startup_001,LEADS,,,,,,,Chief Development Officer
+person_006,inv_001,REPRESENTS,,,,,,Director; Board Member since Jul 2025
+person_007,inv_004,REPRESENTS,,,,,,Director of Investments; Board Member since Jul 2025
+person_008,inv_011,REPRESENTS,,,,,,Co-Founder & Managing Partner; Board Member since Aug 2022
+inv_001,startup_001,HAS_BOARD_SEAT,2025-07-01,,,,,Chenny Zhang on board since Jul 2025
+inv_004,startup_001,HAS_BOARD_SEAT,2025-07-01,,,,,Michael Nannizzi on board since Jul 2025
+inv_011,startup_001,HAS_BOARD_SEAT,2022-08-01,,,,,Teymour Boutros-Ghali on board since Aug 2022
+startup_001,patent_001,HOLDS_PATENT,,,,,,Active patent; first filed Nov 2021; 166 forward citations
+startup_001,patent_002,HOLDS_PATENT,,,,,,Pending patent; first filed Feb 2020
+startup_001,patent_003,HOLDS_PATENT,,,,,,Pending patent; first filed Nov 2021
+startup_001,patent_004,HOLDS_PATENT,,,,,,Pending patent; first filed Nov 2021
+startup_001,patent_005,HOLDS_PATENT,,,,,,Pending patent; first filed Sep 2023; 6 citations
+startup_001,trial_001,RUNNING_TRIAL,,,,,,Phase 1 trial of SYNT-101; recruiting as of Jan 2026

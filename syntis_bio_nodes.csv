@@ -1,0 +1,34 @@
+nodeId:ID,name,type,investor_type,founded,location,total_raised,stage,focus_area,:LABEL
+startup_001,Syntis Bio,Startup,,2022,Boston MA,48370000,Generating Revenue,Drug Discovery / Oral Therapy / Obesity & Rare Disease,Startup
+inv_001,Cerberus Ventures,Investor,Venture Capital,,,,,,Investor
+inv_002,Colorcon,Investor,PE-Backed Company,,,,,,Investor
+inv_003,Cerity Partners Ventures,Investor,Corporate Venture Capital,,,,,,Investor
+inv_004,W.R. Berkley,Investor,Corporation,,,,,,Investor
+inv_005,Mansueto Investments,Investor,Corporation,,,,,,Investor
+inv_006,Apollo Research Labs,Investor,Corporation,,,,,,Investor
+inv_007,Woori Venture Partners,Investor,Venture Capital,,,,,,Investor
+inv_008,Portal Innovations,Investor,Venture Capital,,,,,,Investor
+inv_009,Safar Partners,Investor,Venture Capital,,,,,,Investor
+inv_010,Sky9 Capital,Investor,Venture Capital,,,,,,Investor
+inv_011,BOLD Capital Partners,Investor,Venture Capital,,,,,,Investor
+inv_012,National Institutes of Health,Investor,Government,,,,,,Investor
+legal_001,Mintz,Legal Advisor,,,Boston MA,,,,LegalAdvisor
+legal_002,Gunderson Dettmer,Legal Advisor,,,,,,,LegalAdvisor
+person_001,Rahul Dhanda,Person,,,,,,Co-Founder CEO President & Board Member,Person
+person_002,Robert Langer,Person,,,,,,Co-Founder & Board Member,Person
+person_003,Giovanni Traverso,Person,,,,,,Co-Founder & Board Member,Person
+person_004,Christo Shalish,Person,,,,,,Chief Business Officer,Person
+person_005,David Rosenbaum,Person,,,,,,Chief Development Officer,Person
+person_006,Chenny Zhang,Person,,,,,,Director Cerberus Ventures,Person
+person_007,Michael Nannizzi,Person,,,,,,Director W.R. Berkley,Person
+person_008,Teymour Boutros-Ghali,Person,,,,,,Co-Founder & Managing Partner BOLD Capital,Person
+person_009,Martin Madaus,Person,,,,,,Board Member,Person
+deal_001,Deal #3 Series A Jun 2025,Deal,,,,$33000000,Generating Revenue,Early Stage VC Series A,Deal
+deal_002,Deal #2 NIH Grant Jul 2025,Deal,,,,$5000000,Generating Revenue,Grant,Deal
+deal_003,Deal #1 Early Stage VC Aug 2022,Deal,,,,$15370000,Generating Revenue,Early Stage VC Seed,Deal
+patent_001,Engineered leucine decarboxylases (US-12502421-B2),Patent,,,,,,Active,Patent
+patent_002,Engineered leucine decarboxylases (US-20240018504-A1),Patent,,,,,,Pending,Patent
+patent_003,Engineered leucine decarboxylases (EP-4426827-A2),Patent,,,,,,Pending,Patent
+patent_004,Engineered leucine decarboxylases (EP-4426827-A4),Patent,,,,,,Pending,Patent
+patent_005,Synergistic permeation enhancers for gastrointestinal synthetic epithelial linings (WO-2025072841-A1),Patent,,,,,,Pending,Patent
+trial_001,SYNT-101 Phase 1 Safety Tolerability and Pharmacodynamics Study,ClinicalTrial,,,,,,Phase 1 Recruiting,ClinicalTrial
