@@ -1,0 +1,73 @@
+:START_ID,:END_ID,:TYPE,deal_date,deal_amount,round_number,investor_status,is_lead,notes
+startup_001,deal_001,HAD_DEAL,2025-01-01,30000,,,,
+startup_001,deal_002,HAD_DEAL,2024-06-01,4610000,,,,
+startup_001,deal_003,HAD_DEAL,2023-06-28,0,,,,No equity or funding exchanged
+startup_001,deal_004,HAD_DEAL,2023-01-01,0,,,,No equity or funding exchanged
+startup_001,deal_005,HAD_DEAL,2023-01-01,,,,,Undisclosed amount
+startup_001,deal_006,HAD_DEAL,2022-12-01,,,,,Undisclosed amount
+startup_001,deal_007,HAD_DEAL,2020-07-15,2380000,,,,
+startup_001,deal_008,HAD_DEAL,2020-01-01,3600000,,,,Undisclosed investors
+startup_001,deal_009,HAD_DEAL,2020-01-01,0,,,,
+startup_001,deal_010,HAD_DEAL,2019-07-01,400000,,,,Pre-seed
+startup_001,deal_011,HAD_DEAL,2019-05-20,20000,,,,
+startup_001,deal_012,HAD_DEAL,2019-01-01,,,,,Undisclosed angel amount
+startup_001,deal_013,HAD_DEAL,2018-05-23,0,,,,
+inv_001,deal_001,INVESTED_IN,2025-01-01,30000,13,New Investor,No,
+inv_002,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_003,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_004,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_005,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_006,deal_002,INVESTED_IN,2024-06-01,250000,12,New Investor,No,Fund: Headwater Ventures Fund II
+inv_007,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,Lead: David Brown; Fund: Impellent Ventures II
+inv_008,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_009,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,Lead: Sebastian Barriga
+inv_010,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_011,deal_002,INVESTED_IN,2024-06-01,30000,12,New Investor,No,Fund: Team Ignite Fund I
+inv_012,deal_002,INVESTED_IN,2024-06-01,4610000,12,New Investor,No,
+inv_016,deal_002,INVESTED_IN,2024-06-01,4610000,12,Follow-On Investor,No,Lead: Ron Levin; Fund: AV Seed Fund 6
+inv_022,deal_002,INVESTED_IN,2024-06-01,4610000,12,Follow-On Investor,No,Lead: Andrew Feinberg JD
+inv_025,deal_002,INVESTED_IN,2024-06-01,4610000,12,Follow-On Investor,No,
+inv_027,deal_002,INVESTED_IN,2024-06-01,4610000,12,Follow-On Investor,No,
+inv_040,deal_002,INVESTED_IN,2024-06-01,4610000,12,Follow-On Investor,No,
+inv_042,deal_003,INVESTED_IN,2023-06-28,,11,New Investor,No,UCSF Rosenman Innovators program; no equity/funding
+inv_013,deal_004,INVESTED_IN,2023-01-01,,10,New Investor,No,Good For Her program; no equity/funding
+inv_014,deal_005,INVESTED_IN,2023-01-01,,,New Investor,No,Undisclosed amount
+inv_015,deal_006,INVESTED_IN,2022-12-01,,8,New Investor,No,
+inv_016,deal_006,INVESTED_IN,2022-12-01,,8,New Investor,No,
+inv_017,deal_006,INVESTED_IN,2022-12-01,,8,New Investor,No,
+inv_018,deal_006,INVESTED_IN,2022-12-01,,8,New Investor,No,
+inv_019,deal_006,INVESTED_IN,2022-12-01,,8,New Investor,No,
+inv_020,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_021,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_022,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,Yes,Lead investor; Andrew Feinberg JD
+inv_023,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_024,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_025,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,Lead: Victor Lanio; Fund: Flare Capital Partners II
+inv_026,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_027,deal_007,INVESTED_IN,2020-07-15,100000,7,New Investor,No,Funds: Infinite Corridor Fund + GGC Infinite Corridor Fund II
+inv_028,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,Lead: Robert Davoli
+inv_029,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_030,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_031,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,Fund: Koa Labs Fund 2
+inv_032,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,Lead: Ray Riley
+inv_033,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_034,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_035,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_036,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_037,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_038,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+inv_039,deal_007,INVESTED_IN,2020-07-15,2380000,7,Follow-On Investor,No,
+inv_039,deal_009,INVESTED_IN,2020-01-01,,5,New Investor,No,Springboard Enterprises program
+inv_040,deal_011,INVESTED_IN,2019-05-20,20000,3,New Investor,No,Techstars 2019 Boston Accelerator Program; Lead: Clement Cazalot
+inv_041,deal_013,INVESTED_IN,2018-05-23,,1,New Investor,Yes,MassChallenge 2018 Boston Cohort
+inv_043,deal_007,INVESTED_IN,2020-07-15,2380000,7,New Investor,No,
+legal_001,deal_007,ADVISED_ON,2020-07-15,,,,,Advised Piction Health
+legal_002,deal_007,ADVISED_ON,2020-07-15,,,,,Advised Argon Ventures
+person_001,startup_001,LEADS,,,,,,,Co-Founder & CEO
+person_002,startup_001,LEADS,,,,,,,Co-Founder & CTO
+person_003,inv_007,REPRESENTS,,,,,,Board Member since May 2024
+person_005,inv_025,REPRESENTS,,,,,,Board Observer since Jul 2020
+inv_022,startup_001,HAS_BOARD_SEAT,2020-07-01,,,,,Andrew Feinberg JD on board since Jul 2020
+inv_007,startup_001,HAS_BOARD_SEAT,2024-05-01,,,,,David Brown on board since May 2024
+inv_025,startup_001,HAS_BOARD_OBSERVER,2020-07-01,,,,,Victor Lanio as board observer since Jul 2020
+inv_043,deal_002,EXITED,2024-06-01,,,,,Gibson Advisory Group full exit in Jun 2024 round

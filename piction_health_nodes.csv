@@ -1,0 +1,65 @@
+nodeId:ID,name,type,investor_type,founded,location,total_raised,stage,focus_area,:LABEL
+startup_001,Piction Health,Startup,,2017,Boston MA,11030000,Generating Revenue,Dermatology AI / Telehealth,Startup
+inv_001,Healthworx Accelerator,Investor,Accelerator/Incubator,,,,,,Investor
+inv_002,Allatus Ventures,Investor,Venture Capital,,,,,,Investor
+inv_003,Audacious Capital,Investor,Venture Capital,,,,,,Investor
+inv_004,Bayless Ventures,Investor,Venture Capital,,,,,,Investor
+inv_005,Carnrite Ventures,Investor,Venture Capital,,,,,,Investor
+inv_006,Headwater Ventures,Investor,Venture Capital,,,,,,Investor
+inv_007,Impellent Ventures,Investor,Venture Capital,,,,,,Investor
+inv_008,Jemison Alexander,Investor,Venture Capital,,,,,,Investor
+inv_009,milemark.capital,Investor,Venture Capital,,,,,,Investor
+inv_010,SBXi,Investor,Venture Capital,,,,,,Investor
+inv_011,Team Ignite Ventures,Investor,Venture Capital,,,,,,Investor
+inv_012,Wire Group (Massachusetts),Investor,Angel Group,,,,,,Investor
+inv_013,Good For Her,Investor,Accelerator/Incubator,,,,,,Investor
+inv_014,Service Provider Capital,Investor,Venture Capital,,,,,,Investor
+inv_015,10X Venture Partners,Investor,Angel Group,,,,,,Investor
+inv_016,Alumni Ventures,Investor,Venture Capital,,,,,,Investor
+inv_017,Hawktail,Investor,Venture Capital,,,,,,Investor
+inv_018,StartX (US),Investor,Accelerator/Incubator,,,,,,Investor
+inv_019,WXR Venture Fund,Investor,Venture Capital,,,,,,Investor
+inv_020,Andrew Feinberg,Investor,Angel (individual),,,,,,Investor
+inv_021,Andrew Palmer,Investor,Angel (individual),,,,,,Investor
+inv_022,Argon Ventures,Investor,Venture Capital,,,,,,Investor
+inv_023,Elizabeth Lawler,Investor,Angel (individual),,,,,,Investor
+inv_024,Esther Dyson,Investor,Angel (individual),,,,,,Investor
+inv_025,Flare Capital Partners,Investor,Venture Capital,,,,,,Investor
+inv_026,Gaugarin Oliver,Investor,Angel (individual),,,,,,Investor
+inv_027,Good Growth Capital,Investor,Venture Capital,,,,,,Investor
+inv_028,Gutbrain Ventures,Investor,Venture Capital,,,,,,Investor
+inv_029,Huat Ventures,Investor,Venture Capital,,,,,,Investor
+inv_030,James Stone,Investor,Angel (individual),,,,,,Investor
+inv_031,Koa Labs,Investor,VC-Backed Company,,,,,,Investor
+inv_032,Launchpad Venture Group,Investor,Angel Group,,,,,,Investor
+inv_033,Plug and Play Tech Center,Investor,Accelerator/Incubator,,,,,,Investor
+inv_034,Rajeev Surati,Investor,Angel (individual),,,,,,Investor
+inv_035,Robert Davoli,Investor,Angel (individual),,,,,,Investor
+inv_036,Robert Mason,Investor,Angel (individual),,,,,,Investor
+inv_037,TBD Angels,Investor,Angel Group,,,,,,Investor
+inv_038,William Crawford,Investor,Angel (individual),,,,,,Investor
+inv_039,Springboard Enterprises,Investor,Accelerator/Incubator,,,,,,Investor
+inv_040,Techstars,Investor,Accelerator/Incubator,,,,,,Investor
+inv_041,MassChallenge,Investor,Accelerator/Incubator,,,,,,Investor
+inv_042,UCSF Rosenman Institute,Investor,Accelerator/Incubator,,,,,,Investor
+inv_043,Gibson Advisory Group,Investor,Venture Capital,,,,,,Investor
+legal_001,Cooley,Legal Advisor,,,Boston MA,,,,LegalAdvisor
+legal_002,Gunderson Dettmer,Legal Advisor,,,,,,,LegalAdvisor
+person_001,Susan Conover,Person,,,,,,Co-Founder & CEO,Person
+person_002,Pranav Kuber,Person,,,,,,Co-Founder & CTO,Person
+person_003,David Brown,Person,,,,,,Founder Impellent Ventures,Person
+person_004,Jonathan Romanowsky,Person,,,,,,Board Member,Person
+person_005,Victor Lanio,Person,,,,,,Partner Flare Capital,Person
+deal_001,Deal #13 Accelerator Jan 2025,Deal,,,,,Generating Revenue,Healthworx Accelerator,Deal
+deal_002,Deal #12 Seed Round Jun 2024,Deal,,,,$4610000,Generating Revenue,Series 1,Deal
+deal_003,Deal #11 Accelerator Jun 2023,Deal,,,,,,UCSF Rosenman Institute,Deal
+deal_004,Deal #10 Accelerator Jan 2023,Deal,,,,,,Good For Her,Deal
+deal_005,Deal #9 Later Stage VC Jan 2023,Deal,,,,,Generating Revenue,,Deal
+deal_006,Deal #8 Seed Round Dec 2022,Deal,,,,,Generating Revenue,,Deal
+deal_007,Deal #7 Seed Round Jul 2020,Deal,,,,$2380000,Product In Beta,,Deal
+deal_008,Deal #6 Early Stage VC Jan 2020,Deal,,,,$3600000,Product In Beta,,Deal
+deal_009,Deal #5 Accelerator Jan 2020,Deal,,,,,,Springboard Enterprises,Deal
+deal_010,Deal #4 Seed Round Jul 2019,Deal,,,,$400000,Product In Beta,,Deal
+deal_011,Deal #3 Accelerator May 2019,Deal,,,,$20000,Product In Beta,Techstars Boston,Deal
+deal_012,Deal #2 Angel Jan 2019,Deal,,,,,,Undisclosed Angel,Deal
+deal_013,Deal #1 Accelerator May 2018,Deal,,,,,,MassChallenge Boston,Deal
