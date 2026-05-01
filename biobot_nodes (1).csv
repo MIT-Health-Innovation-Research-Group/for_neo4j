@@ -1,0 +1,51 @@
+nodeId:ID,name,type,location,stage,focus_area,total_raised,:LABEL
+biobot_startup_001,Biobot Analytics,Startup,Cambridge MA,Series A1,Wastewater Analytics / Public Health Data,$41.18M,Startup
+biobot_deal_012,Deal #12 Later Stage VC (Series A1) Jun 2025,,,,,,Deal
+biobot_deal_011,Deal #11 Later Stage VC Jul 2023,,,,,,Deal
+biobot_deal_010,Deal #10 Early Stage VC (Series A) Oct 2021,,,,,,Deal
+biobot_deal_009,Deal #9 Accelerator (The Engine) May 2020,,,,,,Deal
+biobot_deal_008,Deal #8 Seed Round Apr 2020,,,,,,Deal
+biobot_deal_007,Deal #7 NIH Grant Apr 2020,,,,,,Deal
+biobot_deal_006,Deal #6 Accelerator (Y Combinator) Mar 2018,,,,,,Deal
+biobot_deal_005,Deal #5 Accelerator (MIT Delta V) Sep 2017,,,,,,Deal
+biobot_deal_004,Deal #4 Accelerator (MITdesignX) May 2017,,,,,,Deal
+biobot_deal_003,Deal #3 Grant (MIT IDEAS) May 2017,,,,,,Deal
+biobot_deal_002,Deal #2 Accelerator (Rough Draft Ventures) Jan 2017,,,,,,Deal
+biobot_deal_001,Deal #1 University Spin-Out Jan 2017,,,,,,Deal
+biobot_inv_001,Atreides Management,Investor,,,,,Investor
+biobot_inv_002,Brightwing Capital,Investor,,,,,Investor
+biobot_inv_003,JSL Health Capital,Investor,,,,,Investor
+biobot_inv_004,Hyperplane Venture Capital,Investor,,,,,Investor
+biobot_inv_005,Valor Equity Partners,Investor,,,,,Investor
+biobot_inv_006,Forward Deployed VC,Investor,,,,,Investor
+biobot_inv_007,Republic Capital,Investor,,,,,Investor
+biobot_inv_008,The American Family Insurance Institute for Corporate and Social Impact,Investor,,,,,Investor
+biobot_inv_009,Dorm Room Fund,Investor,,,,,Investor
+biobot_inv_010,Plum Alley Ventures,Investor,,,,,Investor
+biobot_inv_011,Thursday Ventures,Investor,,,,,Investor
+biobot_inv_012,The Engine,Investor,,,,,Investor
+biobot_inv_013,Engine Ventures,Investor,,,,,Investor
+biobot_inv_014,MET Fund Advisors,Investor,,,,,Investor
+biobot_inv_015,Anne Wojcicki,Investor,,,,,Investor
+biobot_inv_016,Ayokunle Omojola,Investor,,,,,Investor
+biobot_inv_017,Blindspot Ventures,Investor,,,,,Investor
+biobot_inv_018,Brad Flora,Investor,,,,,Investor
+biobot_inv_019,Bragiel Brothers,Investor,,,,,Investor
+biobot_inv_020,DCVC,Investor,,,,,Investor
+biobot_inv_021,Ekistic Ventures,Investor,,,,,Investor
+biobot_inv_022,For Good Ventures,Investor,,,,,Investor
+biobot_inv_023,Greentown Labs,Investor,,,,,Investor
+biobot_inv_024,Homebrew Management,Investor,,,,,Investor
+biobot_inv_025,Juha Paananen,Investor,,,,,Investor
+biobot_inv_026,Liquid 2 Ventures,Investor,,,,,Investor
+biobot_inv_027,Marc McCabe,Investor,,,,,Investor
+biobot_inv_028,Mark Scianna,Investor,,,,,Investor
+biobot_inv_029,Nonlinear Capital,Investor,,,,,Investor
+biobot_inv_030,Pathbreaker Ventures,Investor,,,,,Investor
+biobot_inv_031,Pioneer Fund,Investor,,,,,Investor
+biobot_inv_032,Refactor Capital,Investor,,,,,Investor
+biobot_inv_033,Soma Capital,Investor,,,,,Investor
+biobot_inv_034,Y Combinator,Investor,,,,,Investor
+biobot_inv_035,GC Venture Fellows,Investor,,,,,Investor
+biobot_inv_036,MITdesignX,Investor,,,,,Investor
+biobot_inv_037,MIT IDEAS Social Innovation Challenge,Investor,,,,,Investor

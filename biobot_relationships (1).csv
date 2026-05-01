@@ -1,0 +1,66 @@
+:START_ID,:END_ID,:TYPE,deal_date,deal_amount,investor_status,is_lead,notes
+biobot_startup_001,biobot_deal_012,HAS_DEAL,2025-06-06,$13.45M,,,Series A1
+biobot_startup_001,biobot_deal_011,HAS_DEAL,2023-07-17,,,,Later Stage VC
+biobot_startup_001,biobot_deal_010,HAS_DEAL,2021-10-22,$20.83M,,,Series A; Post-Val $126.83M
+biobot_startup_001,biobot_deal_009,HAS_DEAL,2020-05-01,,,,Accelerator/Incubator
+biobot_startup_001,biobot_deal_008,HAS_DEAL,2020-04-17,$6.74M,,,Seed Round; Post-Val $15.74M
+biobot_startup_001,biobot_deal_007,HAS_DEAL,2020-04-15,$0.54M,,,NIH Grant
+biobot_startup_001,biobot_deal_006,HAS_DEAL,2018-03-20,$0.12M,,,Y Combinator Winter 2018
+biobot_startup_001,biobot_deal_005,HAS_DEAL,2017-09-12,$0.02M,,,MIT Delta V 2017 Demo Day
+biobot_startup_001,biobot_deal_004,HAS_DEAL,2017-05-18,$0.02M,,,MITdesignX Spring 2017
+biobot_startup_001,biobot_deal_003,HAS_DEAL,2017-05-02,$0.01M,,,MIT IDEAS Global Challenge prize
+biobot_startup_001,biobot_deal_002,HAS_DEAL,2017-01-01,,,,Rough Draft Ventures 2017 Class
+biobot_startup_001,biobot_deal_001,HAS_DEAL,2017-01-01,,,,University Spin-Out from MIT
+biobot_inv_001,biobot_deal_012,INVESTED_IN,2025-06-06,$13.45M,New Investor,false,Series A1; Form of Payment: Cash
+biobot_inv_002,biobot_deal_012,INVESTED_IN,2025-06-06,$13.45M,New Investor,false,Series A1; Form of Payment: Cash
+biobot_inv_003,biobot_deal_012,INVESTED_IN,2025-06-06,$13.45M,New Investor,false,Series A1; Form of Payment: Cash
+biobot_inv_004,biobot_deal_012,INVESTED_IN,2025-06-06,$13.45M,Follow-On Investor,true,Series A1; Lead Investor; Board Observer since Dec 2017
+biobot_inv_005,biobot_deal_012,INVESTED_IN,2025-06-06,$13.45M,Follow-On Investor,true,Series A1; Lead Investor; Lead Partner: Vivek Pattipati
+biobot_inv_006,biobot_deal_011,INVESTED_IN,2023-07-17,,New Investor,false,Later Stage VC Jul 2023
+biobot_inv_007,biobot_deal_011,INVESTED_IN,2023-07-17,,New Investor,false,Later Stage VC Jul 2023
+biobot_inv_008,biobot_deal_011,INVESTED_IN,2023-07-17,,Follow-On Investor,false,Later Stage VC Jul 2023; Lead Partner: John McIntyre
+biobot_inv_005,biobot_deal_011,INVESTED_IN,2023-07-17,,New Investor,false,Later Stage VC Jul 2023
+biobot_inv_009,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,New Investor,false,Series A
+biobot_inv_010,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,New Investor,false,Series A
+biobot_inv_011,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,New Investor,true,Series A; Lead Investor; Lead Partner: Richard Schabowsky Ph.D
+biobot_inv_013,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,Follow-On Investor,false,Series A; Lead Partner: Ann DeWitt Ph.D
+biobot_inv_014,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,New Investor,false,Series A; Exited Jun 2025
+biobot_inv_008,biobot_deal_010,INVESTED_IN,2021-10-22,$20.83M,Follow-On Investor,false,Series A; Lead Partner: John McIntyre
+biobot_inv_012,biobot_deal_009,INVESTED_IN,2020-05-01,,New Investor,false,Accelerator/Incubator; The Engine
+biobot_inv_013,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,true,Seed Round; Lead Investor; Lead Partner: Ann DeWitt Ph.D
+biobot_inv_015,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Anne Wojcicki
+biobot_inv_016,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Ayokunle Omojola
+biobot_inv_017,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_018,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Brad Flora
+biobot_inv_019,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_020,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Fund: DCVC Opportunity Fund II
+biobot_inv_021,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_022,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_023,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Exited
+revivemed_inv_002,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_024,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_004,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Fund: Hyperplane II
+biobot_inv_025,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Juha Paananen
+biobot_inv_026,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_027,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Marc McCabe
+biobot_inv_028,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Lead Partner: Mark Scianna
+biobot_inv_029,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round; Exited Jul 2023
+biobot_inv_030,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_031,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_032,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_033,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_008,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,New Investor,false,Seed Round
+biobot_inv_034,biobot_deal_008,INVESTED_IN,2020-04-17,$6.74M,Follow-On Investor,false,Seed Round; Fund: Y Combinator Fund III
+syntis_inv_012,biobot_deal_007,INVESTED_IN,2020-04-15,$0.54M,New Investor,false,NIH Grant; $536455
+biobot_inv_034,biobot_deal_006,INVESTED_IN,2018-03-20,$0.12M,New Investor,false,Y Combinator Winter 2018; Fund: Y Combinator Continuity Fund I
+revivemed_inv_009,biobot_deal_005,INVESTED_IN,2017-09-12,$0.02M,New Investor,true,MIT Delta V 2017 Demo Day; Lead Partner: William Aulet
+biobot_inv_036,biobot_deal_004,INVESTED_IN,2017-05-18,$0.02M,New Investor,true,MITdesignX Spring 2017; Lead Partner: Gilad Rosenzweig
+biobot_inv_037,biobot_deal_003,INVESTED_IN,2017-05-02,$0.01M,New Investor,true,MIT IDEAS Global Challenge prize
+biobot_inv_035,biobot_deal_002,INVESTED_IN,2017-01-01,,New Investor,false,Rough Draft Ventures 2017 Class
+revivemed_inv_012,biobot_deal_001,INVESTED_IN,2017-01-01,,New Investor,false,University Spin-Out from MIT
+biobot_startup_001,biobot_inv_012,ACCELERATED_BY,2020-05-01,,,,The Engine
+biobot_startup_001,biobot_inv_034,ACCELERATED_BY,2018-03-20,,,,Y Combinator Winter 2018
+biobot_startup_001,revivemed_inv_009,ACCELERATED_BY,2017-09-12,,,,MIT Delta V 2017 Demo Day
+biobot_startup_001,biobot_inv_036,ACCELERATED_BY,2017-05-18,,,,MITdesignX Spring 2017
+biobot_startup_001,biobot_inv_035,ACCELERATED_BY,2017-01-01,,,,Rough Draft Ventures 2017 Class
+biobot_startup_001,revivemed_inv_012,SPUN_OUT_OF,2017-01-01,,,,Spun out of Massachusetts Institute of Technology
