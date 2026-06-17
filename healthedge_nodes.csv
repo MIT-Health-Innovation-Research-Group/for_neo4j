@@ -1,0 +1,66 @@
+id,name,labels
+healthedge_company,HealthEdge Software Inc,Company
+healthedge_deal_001,Deal #1 Early Stage VC Series A Mar 2007,Deal
+healthedge_deal_002,Deal #2 Early Stage VC Series A Apr 2008,Deal
+healthedge_deal_003,Deal #3 Early Stage VC Series A1 Aug 2008,Deal
+healthedge_deal_004,Deal #4 Early Stage VC Series A1 Jan 2009,Deal
+healthedge_deal_005,Deal #5 Early Stage VC Series A1 Jul 2009,Deal
+healthedge_deal_006,Deal #6 Later Stage VC Series A1 Nov 2010,Deal
+healthedge_deal_007,Deal #7 Later Stage VC Series A1 Jan 2012,Deal
+healthedge_deal_008,Deal #8 Later Stage VC Series A2 Nov 2012,Deal
+healthedge_deal_009,Deal #9 Debt General,Deal
+healthedge_deal_010,Deal #10 Debt Refinancing Sep 2013,Deal
+healthedge_deal_011,Deal #11 Later Stage VC Series B Sep 2014,Deal
+healthedge_deal_012,Deal #12 Later Stage VC Feb 2015,Deal
+healthedge_deal_013,Deal #13 Later Stage VC Series C Jul 2017,Deal
+healthedge_deal_014,Deal #14 Mezzanine Dec 2017,Deal
+healthedge_deal_015,Deal #15 Buyout/LBO Apr 2020,Deal
+healthedge_deal_016,Deal #16 Debt General Dec 2020,Deal
+healthedge_deal_017,Deal #17 PE Growth/Expansion Dec 2021,Deal
+healthedge_deal_018,Deal #18 Debt General Dec 2022,Deal
+healthedge_deal_019,Deal #19 Debt Refinancing Nov 2023,Deal
+healthedge_deal_020,Deal #20 Debt Refinancing Jul 2024,Deal
+healthedge_deal_021,Deal #21 Debt General Dec 2024,Deal
+healthedge_deal_022,Deal #22 Buyout/LBO Jun 2025,Deal
+healthedge_patent_001,Apparatus and method for improving compliance with a therapeutic regimen,Patent
+healthedge_patent_002,Claim processing,Patent
+healthedge_patent_003,Configuring a semantic network to process transactions,Patent
+healthedge_patent_004,Configuring a semantic network to process health care transactions,Patent
+healthedge_patent_005,Processing health care transactions using a semantic network,Patent
+healthedge_patent_006,Processing transactions using a semantic network,Patent
+healthedge_investor_psilos,Psilos Group Managers,Investor
+healthedge_investor_medica,Medica Minneapolis,Investor
+healthedge_investor_blackstone,Blackstone,Investor
+healthedge_investor_coatue,Coatue Management,Investor
+healthedge_investor_ardan,Ardan Equity,Investor
+healthedge_investor_bain,Bain Capital,Investor
+healthedge_investor_ares,Ares Management,Investor
+healthedge_investor_ares_bdc,Ares Strategic Income Fund BDC,Investor
+healthedge_investor_blue_venture,Blue Venture Fund,Investor
+healthedge_investor_finback,Finback Investment Partners,Investor
+healthedge_investor_recognize,Recognize Partners,Investor
+healthedge_investor_monroe,Monroe Capital,Investor
+healthedge_investor_oaktree,Oaktree Capital Management,Investor
+healthedge_lender_goldman,Goldman Sachs Asset Management,Lender
+healthedge_lender_golub,Golub Capital,Lender
+healthedge_lender_benefit_street,Benefit Street Partners,Lender
+healthedge_lender_blue_owl,Blue Owl Capital,Lender
+healthedge_lender_jefferies,Jefferies Finance,Lender
+healthedge_lender_svb,SVB Financial Group,Lender
+healthedge_legal_cooley,Cooley,LegalAdvisor
+healthedge_legal_goodwin,Goodwin Procter,LegalAdvisor
+healthedge_legal_dla_piper,DLA Piper,LegalAdvisor
+healthedge_legal_cahill,Cahill Gordon & Reindel,LegalAdvisor
+healthedge_legal_davis_polk,Davis Polk,LegalAdvisor
+healthedge_legal_simpson,Simpson Thacher & Bartlett,LegalAdvisor
+healthedge_legal_latham,Latham & Watkins,LegalAdvisor
+healthedge_legal_debevoise,Debevoise & Plimpton,LegalAdvisor
+healthedge_legal_kirkland,Kirkland & Ellis,LegalAdvisor
+healthedge_legal_triple_tree,TripleTree,Advisor
+healthedge_legal_evercore,Evercore Group,Advisor
+healthedge_legal_morgan_stanley,Morgan Stanley,Advisor
+healthedge_legal_jp_morgan,JP Morgan Chase,Advisor
+healthedge_legal_ubs,UBS Group,Advisor
+healthedge_legal_srs_acquiom,SRS Acquiom,Advisor
+healthedge_legal_mirus,Mirus Capital Advisors,Advisor
+healthedge_legal_capstone,Capstone USA,Advisor
