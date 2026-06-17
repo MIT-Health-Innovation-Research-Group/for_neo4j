@@ -1,0 +1,15 @@
+:ID,name,:LABEL,founded_year,status,description,location,employees,website,deal_type,amount,currency,date,stage,round_number
+healthedge_company_001,HealthEdge Software Inc,Startup,2005,Generating Revenue,Integrated digital healthcare transformation platform for healthcare operations,Boston MA,2222,www.healthedge.com,,,,,,
+healthedge_deal_001,Series A Round 1,Deal,,,Early Stage VC,12.70,M,2007-03-05,Startup,1
+healthedge_deal_002,Series A Round 2,Deal,,,Early Stage VC,13.00,M,2008-04-22,Startup,2
+healthedge_deal_003,Series A1 Round 3,Deal,,,Early Stage VC,3.00,M,2008-08-25,Startup,3
+healthedge_deal_004,Series A1 Round 4,Deal,,,Early Stage VC,1.55,M,2009-01-27,Startup,4
+healthedge_deal_005,Series A1 Round 5,Deal,,,Early Stage VC,3.50,M,2009-07-20,Startup,5
+healthedge_deal_006,Series A1 Round 6,Deal,,,Early Stage VC,4.47,M,2010-11-17,Startup,6
+healthedge_deal_007,Series A1 Round 7,Deal,,,Later Stage VC,1.50,M,2012-01-05,Startup,7
+healthedge_deal_008,Series A2 Round 8,Deal,,,Later Stage VC,10.00,M,2012-11-30,Generating Revenue,8
+healthedge_deal_011,Series B Round 11,Deal,,,Later Stage VC,30.00,M,2014-09-19,Generating Revenue,11
+healthedge_deal_012,Later Stage VC Bridge Round 12,Deal,,,Later Stage VC,1.78,M,2015-02-27,Generating Revenue,12
+healthedge_deal_013,Series C Round 13,Deal,,,Later Stage VC,35.80,M,2017-07-13,Generating Revenue,13
+healthedge_investor_008,Psilos Group Managers,Investor,,Venture Capital,Early-stage and later-stage VC firm,,,,,,,,,
+healthedge_investor_009,Medica Minneapolis,Investor,,Healthcare Company,Healthcare insurance and management company,Minneapolis MN,,,,,,,
