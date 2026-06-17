@@ -1,4 +1,4 @@
-id,name,type,category,investor_type,deal_number,deal_type,amount,currency,date,status,stage,filed_date,publication_date,citations,claims,title,specialization
+nodeId:ID,name,type,category,investor_type,deal_number,deal_type,amount,currency,date,status,stage,filed_date,publication_date,citations,claims,title,specialization
 healthedge_company_001,HealthEdge Software Inc,Company,Enterprise Healthcare,,,,,,,Generating Revenue,,,,,,,
 healthedge_investor_001,Bain Capital,Investor,Private Equity,PE/Buyout,,,,,,,,,,,,,
 healthedge_investor_002,Blackstone,Investor,Private Equity,PE/Buyout,,,,,,,,,,,,,
